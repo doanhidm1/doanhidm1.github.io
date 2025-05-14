@@ -1,0 +1,23 @@
+# WaveSoundBuffer.fade
+
+機能/意味
+:   フェードを開始する
+
+タイプ
+:   [WaveSoundBufferクラス](class_WaveSoundBuffer)のメソッド
+
+構文
+:   fade(to, time, delay=0)
+
+引数
+:   |  |  |
+    | --- | --- |
+    | to | 到達させる音量を指定します。  音量の指定については WaveSoundBuffer.volume プロパティを参照してください。 |
+    | time | フェードにかける時間を ms 単位で指定します。 |
+    | delay | フェード開始までの待ち時間を ms 単位で指定します。 |
+
+戻り値
+:   なし (void)
+
+説明
+:   フェード ( 連続的な音量の変化 ) を開始します。

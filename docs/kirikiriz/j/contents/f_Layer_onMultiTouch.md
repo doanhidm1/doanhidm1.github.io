@@ -1,0 +1,22 @@
+# Layer.onMultiTouch
+
+機能/意味
+:   マルチタッチ状態が変化した
+
+タイプ
+:   [Layerクラス](f_Layer)のイベント
+
+構文
+:   onMultiTouch()
+
+引数
+:   なし
+
+説明
+:   マルチタッチ状態が開始されたり、移動したり、離れた時に発生します。
+    　座標情報は [Window.touchPointCount](f_Window_touchPointCount) プロパティと [Window.getTouchPoint](f_Window_getTouchPoint) メソッドで取得できます。
+    　このイベントが発生するのは、フォーカスのあるレイヤです。
+
+参照
+:   [Window.getTouchPoint](f_Window_getTouchPoint)
+    [Window.touchPointCount](f_Window_touchPointCount)

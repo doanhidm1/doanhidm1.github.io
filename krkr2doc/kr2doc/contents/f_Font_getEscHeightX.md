@@ -1,0 +1,29 @@
+# Font.getEscHeightX
+
+機能/意味
+:   文字の縦方向への X 座標の移動量
+
+タイプ
+:   [Fontクラス](f_Font)のメソッド
+
+構文
+:   getEscHeightX(text)
+
+引数
+:   |  |  |
+    | --- | --- |
+    | text | 文字の縦方向への X 座標の移動量を得たい文字列を指定します。 |
+
+戻り値
+:   文字の縦方向への X 座標の移動量がピクセル単位で戻ります
+
+説明
+:   現在のフォントの設定で指定された文字を描画したときに必要な文字描画位置の移動量を
+    得ることができます。
+    　このメソッドでは、文字の描画方向に対して縦 ( 下 ) に進んだときの X 座標上での移動量を
+    得ることができます。
+
+参照
+:   [Font.getEscWidthX](f_Font_getEscWidthX)
+    [Font.getEscWidthY](f_Font_getEscWidthY)
+    [Font.getEscHeightY](f_Font_getEscHeightY)

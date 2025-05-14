@@ -1,0 +1,24 @@
+# VideoOverlay.prepare
+
+機能/意味
+:   再生準備
+
+タイプ
+:   [VideoOverlayクラス](f_VideoOverlay)のメソッド
+
+構文
+:   prepare()
+
+引数
+:   なし
+
+戻り値
+:   なし (void)
+
+説明
+:   メディアの1フレーム目を指定されているレイヤーに描画し、描画終了時にonPeriodイベントを発生させます。
+    prepareメソッド コール後の再生は、onPeriodイベントを待機してから行ってください。
+    この機能は、SWF再生時には利用できません。
+
+参照
+:   [VideoOverlay.onPeriod](f_VideoOverlay_onPeriod)

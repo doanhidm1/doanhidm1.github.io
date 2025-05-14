@@ -1,0 +1,40 @@
+# IVideoDriver
+
+# メンバ
+
+メソッド
+:   [addDynamicLight](func_IVideoDriver_addDynamicLight) ( )
+    [addTexture](func_IVideoDriver_addTexture) ( )
+    [addTexture2](func_IVideoDriver_addTexture2) ( )
+    [clearZBuffer](func_IVideoDriver_clearZBuffer) ( )
+    [createAttributesFromMaterial](func_IVideoDriver_createAttributesFromMaterial) ( )
+    [createImage](func_IVideoDriver_createImage) ( )
+    [createImage2](func_IVideoDriver_createImage2) ( )
+    [createImage3](func_IVideoDriver_createImage3) ( )
+    [createImageFromFile](func_IVideoDriver_createImageFromFile) ( )
+    [createRenderTargetTexture](func_IVideoDriver_createRenderTargetTexture) ( )
+    [createScreenShot](func_IVideoDriver_createScreenShot) (スクリーンショットの生成 )
+    [deleteAllDynamicLights](func_IVideoDriver_deleteAllDynamicLights) ( )
+    [draw2DImage](func_IVideoDriver_draw2DImage) ( )
+    [draw2DImage2](func_IVideoDriver_draw2DImage2) ( )
+    [draw2DLine](func_IVideoDriver_draw2DLine) ( )
+    [draw2DPolygon](func_IVideoDriver_draw2DPolygon) ( )
+    [draw3DBox](func_IVideoDriver_draw3DBox) ( )
+    [draw3DLine](func_IVideoDriver_draw3DLine) ( )
+    [draw3DTriangle](func_IVideoDriver_draw3DTriangle) ( )
+    [drawMeshBuffer](func_IVideoDriver_drawMeshBuffer) ( )
+    [drawStencilShadow](func_IVideoDriver_drawStencilShadow) ( )
+    [drawStencilShadowVolume](func_IVideoDriver_drawStencilShadowVolume) ( )
+    [enableClipPlane](func_IVideoDriver_enableClipPlane) ( )
+    [fillMaterialStructureFromAttributes](func_IVideoDriver_fillMaterialStructureFromAttributes) ( )
+    [findTexture](func_IVideoDriver_findTexture) ( )
+    [getCurrentRenderTargetSize](func_IVideoDriver_getCurrentRenderTargetSize) ( )
+    [getDriverType](func_IVideoDriver_getDriverType) ( )
+    [getDynamicLight](func_IVideoDriver_getDynamicLight) ( )
+    [getFPS](func_IVideoDriver_getFPS) ( )
+    [getMaximalDynamicLightAmount](func_IVideoDriver_getMaximalDynamicLightAmount) ( )
+    [getMaximalPrimitiveCount](func_IVideoDriver_getMaximalPrimitiveCount) ( )
+    [getViewport](func_IVideoDriver_getViewport) ( )
+    [setViewport](func_IVideoDriver_setViewport) ( )
+
+プロパティ

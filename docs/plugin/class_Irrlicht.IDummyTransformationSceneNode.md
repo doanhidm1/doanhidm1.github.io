@@ -1,0 +1,7 @@
+# IDummyTransformationSceneNode
+
+# メンバ
+
+メソッド
+
+プロパティ

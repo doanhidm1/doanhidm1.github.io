@@ -1,0 +1,16 @@
+# ISceneNodeAnimatorCollisionResponse.getWorld
+
+機能/意味
+
+タイプ
+:   [ISceneNodeAnimatorCollisionResponseクラス](class_ISceneNodeAnimatorCollisionResponse)のメソッド
+
+構文
+:   getWorld()
+
+引数
+
+戻り値
+:   なし (void)
+
+説明

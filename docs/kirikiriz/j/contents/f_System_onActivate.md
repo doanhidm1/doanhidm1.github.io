@@ -1,0 +1,19 @@
+# System.onActivate
+
+機能/意味
+:   アプリケーションがアクティブになったとき
+
+タイプ
+:   [Systemクラス](f_System)のプロパティ (読み書き可能)
+
+説明
+:   アプリケーションがアクティブになったときに呼び出されるイベント関数を表します。
+    　null を指定すると関数は呼び出されません。
+    　通常のイベントハンドラと異なり、このイベントを受け取りたい場合は、呼び出したい関数をこのプロパティに設定してください。
+    　[Window.onActivate](f_Window_onActivate) は、同じアプリケーション内のそれぞれのウィンドウがアクティブになったときに発生しますが、このイベントは、メインウィンドウがアクティブになった場合に発生します。
+    　このイベントは、メインウィンドウが既にアクティブの場合にも発生する可能性があるので注意してください (完全に onActivate → onDeactivate → onActivate → …… の順に発生する保証がない )。
+
+参照
+:   [System.onDeactivate](f_System_onDeactivate)
+    [Window.onActivate](f_Window_onActivate)
+    [Window.onDeactivate](f_Window_onDeactivate)

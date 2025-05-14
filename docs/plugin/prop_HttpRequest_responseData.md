@@ -1,0 +1,9 @@
+# HttpRequest.responseData
+
+機能/意味
+:   レスポンス｡読み込み専用
+
+タイプ
+:   [HttpRequestクラス](class_HttpRequest)のプロパティ
+
+説明

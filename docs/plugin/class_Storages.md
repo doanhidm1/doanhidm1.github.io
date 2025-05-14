@@ -1,0 +1,42 @@
+# Storages
+
+# メンバ
+
+メソッド
+:   [changeDirectory](func_Storages_changeDirectory) (カレントディレクトリを変更する )
+    [copyFile](func_Storages_copyFile) (吉里吉里のストレージ空間中の指定ファイルをコピーする )
+    [copyFileNoNormalize](func_Storages_copyFileNoNormalize) (パスの正規化を行なわず吉里吉里のストレージ空間中の指定ファイルをコピーする (コピー先ファイルのファイル名が小文字に変換されない) )
+    [createDirectory](func_Storages_createDirectory) (ディレクトリを作成する )
+    [deleteFile](func_Storages_deleteFile) (吉里吉里のストレージ空間中の指定ファイルを削除する。 )
+    [deleteMemoryDirectory](func_Storages_deleteMemoryDirectory) (メモリディレクトリを削除する )
+    [deleteMemoryFile](func_Storages_deleteMemoryFile) (メモリファイルを削除する )
+    [dirlist](func_Storages_dirlist) (指定ディレクトリのファイル一覧を取得する )
+    [dirlistEx](func_Storages_dirlistEx) (指定ディレクトリのファイル一覧と詳細情報を取得する )
+    [exportFile](func_Storages_exportFile) (吉里吉里のストレージ空間中のファイルを抽出する )
+    [fstat](func_Storages_fstat) (ファイル属性の取得 )
+    [getDisplayName](func_Storages_getDisplayName) (表示名の取得 実際にエクスプローラで表示されるファイル名を返す (SHGetFileInfoによる) )
+    [getFileAttributes](func_Storages_getFileAttributes) (ファイルの属性を取得する )
+    [getLastModifiedFileTime](func_Storages_getLastModifiedFileTime) (更新日取得（高速版） )
+    [getMD5HashString](func_Storages_getMD5HashString) (MD5ハッシュ値の取得 )
+    [getMemoryDirectory](func_Storages_getMemoryDirectory) (メモリディレクトリ情報を取得する )
+    [getMemoryFileData](func_Storages_getMemoryFileData) (メモリファイル情報を取得する )
+    [getMemoryFileInfo](func_Storages_getMemoryFileInfo) (メモリファイル情報を取得する )
+    [getTemporaryName](func_Storages_getTemporaryName) (テンポラリファイル名の取得 )
+    [getTime](func_Storages_getTime) (タイムスタンプ取得 )
+    [isExistentDirectory](func_Storages_isExistentDirectory) (ディレクトリの存在チェック )
+    [isExistentStorageNoSearchNoNormalize](func_Storages_isExistentStorageNoSearchNoNormalize) (パスの正規化を行なわず、autoPathからの検索も行なわずに ファイルの存在確認を行う )
+    [isExistMemoryDirectory](func_Storages_isExistMemoryDirectory) (メモリディレクトリの存在確認 )
+    [isExistMemoryFile](func_Storages_isExistMemoryFile) (メモリファイルの存在確認 )
+    [mountZip](func_Storages_mountZip) (zipファイルをファイルシステムとして mount します )
+    [moveFile](func_Storages_moveFile) (指定ファイルを移動する。 )
+    [removeDirectory](func_Storages_removeDirectory) (指定ディレクトリを削除する )
+    [resetFileAttributes](func_Storages_resetFileAttributes) (ファイルの属性を解除する )
+    [searchPath](func_Storages_searchPath) (パスの検索 )
+    [selectDirectory](func_Storages_selectDirectory) (フォルダ選択ダイアログを開く )
+    [setFileAttributes](func_Storages_setFileAttributes) (ファイルの属性を設定する )
+    [setLastModifiedFileTime](func_Storages_setLastModifiedFileTime) (更新日設定（高速版） )
+    [setTime](func_Storages_setTime) (タイムスタンプ設定 )
+    [truncateFile](func_Storages_truncateFile) (吉里吉里のストレージ空間中の指定ファイルのサイズを変更する(切り捨てる) )
+    [unmountZip](func_Storages_unmountZip) (zipファイルを unmount します )
+
+プロパティ

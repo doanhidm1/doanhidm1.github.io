@@ -1,0 +1,19 @@
+# Window.borderStyle
+
+機能/意味
+:   [Windows\*]ウィンドウ外見
+
+タイプ
+:   [Windowクラス](class_Window)のプロパティ
+
+説明
+:   ウィンドウの外見を表します。値を設定することもできます。
+    Androidでは常にbsNoneです。
+    以下の値を設定することができます。
+
+    * bsDialog : サイズ変更不可の、ダイアログボックスと同様の外見を持ちます。
+    * bsSingle : サイズ変更不可のウィンドウです。
+    * bsNone : ボーダーのないウィンドウです。
+    * bsSizeable : サイズ変更可の一般的なウィンドウです。デフォルトです。
+    * bsToolWindow : サイズ変更不可のツールウィンドウ(キャプションの小さいウィンドウ) です。
+    * bsSizeToolWin : bsToolWindow と似ていますが、サイズ変更が可能です。
