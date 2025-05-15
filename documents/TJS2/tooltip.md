@@ -29,6 +29,6 @@
 
 ```
 
-[GitHub にも同じサンプルが上げてある。](https://github.com/krkrz/krkrz/blob/master/script/Sample/tooltip/startup.tjs)
+[GitHub にも同じサンプルが上げてある。](https://github.com/krkrz/krkrz/blob/last_64bit_merge/script/Sample/tooltip/startup.tjs)
 
 ### [このドキュメントのライセンス](../LICENSE)

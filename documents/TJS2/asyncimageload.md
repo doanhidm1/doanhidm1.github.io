@@ -34,6 +34,6 @@ onLoaded で他のオブジェクトへアクセスする場合は、無効化�
 
 ```
 
-[GitHubに入っているものと同じ](https://github.com/krkrz/krkrz/blob/master/script/Sample/asyncimageload/startup.tjs)
+[GitHubに入っているものと同じ](https://github.com/krkrz/krkrz/blob/last_64bit_merge/script/Sample/asyncimageload/startup.tjs)
 
 ### [このドキュメントのライセンス](../LICENSE)

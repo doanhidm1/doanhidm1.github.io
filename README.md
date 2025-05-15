@@ -15,7 +15,7 @@
 
 ダウンロード
 
-* [krkrz\_20171225r2.7z (1.4.0)](https://github.com/krkrz/krkrz/releases/download/1.4.0r2/krkrz_20171225r2.7z)
+* [krkrz\_20171225r2.7z (1.4.0)](download/krkrz_20171225r2.7z)
 * [鱧入りKAG3 for 吉里吉里Z](https://github.com/krkrz/kag3_ham/archive/master.zip)
 * [KAG3 for 吉里吉里Z](https://github.com/krkrz/kag3/archive/master.zip)
 
@@ -66,8 +66,8 @@
 リリーサー等のツールには吉里吉里Zも依存しているため吉里吉里２も必要です。
 
 * [吉里吉里２ ドキュメント](krkr2doc/index)
-* [kr2\_232r2.zip (吉里吉里2 SDK ダウンロード)](https://krkrz.github.io/download/kr2_232r2.zip)
-* [translib2.lzh (トランジションライブラリ)](https://krkrz.github.io/download/translib2.lzh)
+* [kr2\_232r2.zip (吉里吉里2 SDK ダウンロード)](download/kr2_232r2.zip)
+* [translib2.lzh (トランジションライブラリ)](download/translib2.lzh)
 * [吉里吉里2/KAG3 (Vector)](http://www.vector.co.jp/soft/win95/game/se229051)
 
 吉里吉里Zで動くシステム

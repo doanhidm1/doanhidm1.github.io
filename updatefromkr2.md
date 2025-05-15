@@ -68,7 +68,7 @@ Layer.hint を設定し、カーソルが一定時間停止しヒント表示タ
 ヒントを描画するレイヤーには [Layer.ignoreHintSensing](docs/kirikiriz/j/contents/f_Layer_ignoreHintSensing) を有効にして、ヒント表示を無視させる。
 これで onHintChanged で isshow が true の時、ヒントを最前面レイヤーに描画し、ヒントレイヤーはマウスメッセージは無視されるように設定すれば従来と同じような表示が出来る。
 isshow が false でイベントが来たら非表示にする。
-[GitHub にサンプル](https://github.com/jin1016/krkrz/blob/master/script/Sample/tooltip/startup.tjs)を上げている。
+[GitHub にサンプル](https://github.com/jin1016/krkrz/blob/last_64bit_merge/script/Sample/tooltip/startup.tjs)を上げている。
 
 12. ゲームパッドの有効/無効をデバッグオプション化。
 
